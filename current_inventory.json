@@ -1,0 +1,822 @@
+{
+    "BS 1": {
+        "Name": "Alakazam",
+        "Quantity": 0
+    },
+    "BS 2": {
+        "Name": "Blastoise",
+        "Quantity": 3
+    },
+    "BS 3": {
+        "Name": "Chansey",
+        "Quantity": 2
+    },
+    "BS 4": {
+        "Name": "Charizard",
+        "Quantity": 0
+    },
+    "BS 5": {
+        "Name": "Clefairy",
+        "Quantity": 0
+    },
+    "BS 6": {
+        "Name": "Gyarados",
+        "Quantity": 0
+    },
+    "BS 7": {
+        "Name": "Hitmonchan",
+        "Quantity": 4
+    },
+    "BS 8": {
+        "Name": "Machamp",
+        "Quantity": 0
+    },
+    "BS 9": {
+        "Name": "Magneton",
+        "Quantity": 0
+    },
+    "BS 10": {
+        "Name": "Mewtwo",
+        "Quantity": 0
+    },
+    "BS 11": {
+        "Name": "Nidoking",
+        "Quantity": 4
+    },
+    "BS 12": {
+        "Name": "Ninetales",
+        "Quantity": 4
+    },
+    "BS 13": {
+        "Name": "Poliwrath",
+        "Quantity": 1
+    },
+    "BS 14": {
+        "Name": "Raichu",
+        "Quantity": 0
+    },
+    "BS 15": {
+        "Name": "Venusaur",
+        "Quantity": 1
+    },
+    "BS 16": {
+        "Name": "Zapdos",
+        "Quantity": 0
+    },
+    "BS 17": {
+        "Name": "Beedrill",
+        "Quantity": 4
+    },
+    "BS 18": {
+        "Name": "Dragonair",
+        "Quantity": 0
+    },
+    "BS 19": {
+        "Name": "Dugtrio",
+        "Quantity": 1
+    },
+    "BS 20": {
+        "Name": "Electabuzz",
+        "Quantity": 4
+    },
+    "BS 21": {
+        "Name": "Electrode",
+        "Quantity": 3
+    },
+    "BS 22": {
+        "Name": "Pidgeotto",
+        "Quantity": 0
+    },
+    "BS 23": {
+        "Name": "Arcanine",
+        "Quantity": 4
+    },
+    "BS 24": {
+        "Name": "Charmeleon",
+        "Quantity": 4
+    },
+    "BS 25": {
+        "Name": "Dewgong",
+        "Quantity": 1
+    },
+    "BS 26": {
+        "Name": "Dratini",
+        "Quantity": 3
+    },
+    "BS 27": {
+        "Name": "Farfetch'd",
+        "Quantity": 1
+    },
+    "BS 28": {
+        "Name": "Growlithe",
+        "Quantity": 0
+    },
+    "BS 29": {
+        "Name": "Haunter",
+        "Quantity": 1
+    },
+    "BS 30": {
+        "Name": "Ivysaur",
+        "Quantity": 4
+    },
+    "BS 31": {
+        "Name": "Jynx",
+        "Quantity": 4
+    },
+    "BS 32": {
+        "Name": "Kadabra",
+        "Quantity": 4
+    },
+    "BS 33": {
+        "Name": "Kakuna",
+        "Quantity": 4
+    },
+    "BS 34": {
+        "Name": "Machoke",
+        "Quantity": 4
+    },
+    "BS 35": {
+        "Name": "Magikarp",
+        "Quantity": 3
+    },
+    "BS 36": {
+        "Name": "Magmar",
+        "Quantity": 1
+    },
+    "BS 37": {
+        "Name": "Nidorino",
+        "Quantity": 4
+    },
+    "BS 38": {
+        "Name": "Poliwhirl",
+        "Quantity": 3
+    },
+    "BS 39": {
+        "Name": "Porygon",
+        "Quantity": 1
+    },
+    "BS 40": {
+        "Name": "Raticate",
+        "Quantity": 1
+    },
+    "BS 41": {
+        "Name": "Seel",
+        "Quantity": 1
+    },
+    "BS 42": {
+        "Name": "Wartortle",
+        "Quantity": 4
+    },
+    "BS 43": {
+        "Name": "Abra",
+        "Quantity": 4
+    },
+    "BS 44": {
+        "Name": "Bulbasaur",
+        "Quantity": 1
+    },
+    "BS 45": {
+        "Name": "Caterpie",
+        "Quantity": 4
+    },
+    "BS 46": {
+        "Name": "Charmander",
+        "Quantity": 2
+    },
+    "BS 47": {
+        "Name": "Diglett",
+        "Quantity": 3
+    },
+    "BS 48": {
+        "Name": "Doduo",
+        "Quantity": 4
+    },
+    "BS 49": {
+        "Name": "Drowzee",
+        "Quantity": 4
+    },
+    "BS 50": {
+        "Name": "Gastly",
+        "Quantity": 4
+    },
+    "BS 51": {
+        "Name": "Koffing",
+        "Quantity": 4
+    },
+    "BS 52": {
+        "Name": "Machop",
+        "Quantity": 4
+    },
+    "BS 53": {
+        "Name": "Magnemite",
+        "Quantity": 4
+    },
+    "BS 54": {
+        "Name": "Metapod",
+        "Quantity": 4
+    },
+    "BS 55": {
+        "Name": "Nidoran M",
+        "Quantity": 4
+    },
+    "BS 56": {
+        "Name": "Onix",
+        "Quantity": 4
+    },
+    "BS 57": {
+        "Name": "Pidgey",
+        "Quantity": 4
+    },
+    "BS 58": {
+        "Name": "Pikachu",
+        "Quantity": 1
+    },
+    "BS 59": {
+        "Name": "Poliwag",
+        "Quantity": 4
+    },
+    "BS 60": {
+        "Name": "Ponyta",
+        "Quantity": 4
+    },
+    "BS 61": {
+        "Name": "Rattata",
+        "Quantity": 4
+    },
+    "BS 62": {
+        "Name": "Sandshrew",
+        "Quantity": 4
+    },
+    "BS 63": {
+        "Name": "Squirtle",
+        "Quantity": 4
+    },
+    "BS 64": {
+        "Name": "Starmie",
+        "Quantity": 4
+    },
+    "BS 65": {
+        "Name": "Staryu",
+        "Quantity": 4
+    },
+    "BS 66": {
+        "Name": "Tangela",
+        "Quantity": 4
+    },
+    "BS 67": {
+        "Name": "Voltorb",
+        "Quantity": 1
+    },
+    "BS 68": {
+        "Name": "Vulpix",
+        "Quantity": 4
+    },
+    "BS 69": {
+        "Name": "Weedle",
+        "Quantity": 4
+    },
+    "BS 70": {
+        "Name": "Clefairy Doll",
+        "Quantity": 3
+    },
+    "BS 71": {
+        "Name": "Computer Search",
+        "Quantity": 7
+    },
+    "BS 72": {
+        "Name": "Devolution Spray",
+        "Quantity": 5
+    },
+    "BS 73": {
+        "Name": "Imposter Professor Oak",
+        "Quantity": 3
+    },
+    "BS 74": {
+        "Name": "Item Finder",
+        "Quantity": 3
+    },
+    "BS 75": {
+        "Name": "Lass",
+        "Quantity": 5
+    },
+    "BS 76": {
+        "Name": "Pokemon Breeder",
+        "Quantity": 8
+    },
+    "BS 77": {
+        "Name": "Pokemon Trader",
+        "Quantity": 4
+    },
+    "BS 78": {
+        "Name": "Scoop Up",
+        "Quantity": 7
+    },
+    "BS 79": {
+        "Name": "Super Energy Removal",
+        "Quantity": 7
+    },
+    "BS 80": {
+        "Name": "Defender",
+        "Quantity": 3
+    },
+    "BS 81": {
+        "Name": "Energy Retrieval",
+        "Quantity": 8
+    },
+    "BS 82": {
+        "Name": "Full Heal",
+        "Quantity": 8
+    },
+    "BS 83": {
+        "Name": "Maintenance",
+        "Quantity": 4
+    },
+    "BS 84": {
+        "Name": "PlusPower",
+        "Quantity": 8
+    },
+    "BS 85": {
+        "Name": "Pokemon Center",
+        "Quantity": 7
+    },
+    "BS 86": {
+        "Name": "Pokemon Flute",
+        "Quantity": 6
+    },
+    "BS 87": {
+        "Name": "Pokedex",
+        "Quantity": 8
+    },
+    "BS 88": {
+        "Name": "Professor Oak",
+        "Quantity": 7
+    },
+    "BS 89": {
+        "Name": "Revive",
+        "Quantity": 4
+    },
+    "BS 90": {
+        "Name": "Super Potion",
+        "Quantity": 8
+    },
+    "BS 91": {
+        "Name": "Bill",
+        "Quantity": 8
+    },
+    "BS 92": {
+        "Name": "Energy Removal",
+        "Quantity": 8
+    },
+    "BS 93": {
+        "Name": "Gust of Wind",
+        "Quantity": 8
+    },
+    "BS 94": {
+        "Name": "Potion",
+        "Quantity": 8
+    },
+    "BS 95": {
+        "Name": "Switch",
+        "Quantity": 8
+    },
+    "BS 96": {
+        "Name": "Double Colorless Energy",
+        "Quantity": 8
+    },
+    "BS 97": {
+        "Name": "Fighting Energy",
+        "Quantity": 32
+    },
+    "BS 98": {
+        "Name": "Fire Energy",
+        "Quantity": 31
+    },
+    "BS 99": {
+        "Name": "Grass Energy",
+        "Quantity": 24
+    },
+    "BS 100": {
+        "Name": "Lightning Energy",
+        "Quantity": 25
+    },
+    "BS 101": {
+        "Name": "Psychic Energy",
+        "Quantity": 38
+    },
+    "BS 102": {
+        "Name": "Water Energy",
+        "Quantity": 27
+    },
+    "JU 17": {
+        "Name": "Clefable",
+        "Quantity": 2
+    },
+    "JU 18": {
+        "Name": "Electrode",
+        "Quantity": 2
+    },
+    "JU 19": {
+        "Name": "Flareon",
+        "Quantity": 1
+    },
+    "JU 20": {
+        "Name": "Jolteon",
+        "Quantity": 0
+    },
+    "JU 21": {
+        "Name": "Kangaskhan",
+        "Quantity": 4
+    },
+    "JU 22": {
+        "Name": "Mr. Mime",
+        "Quantity": 4
+    },
+    "JU 23": {
+        "Name": "Nidoqueen",
+        "Quantity": 3
+    },
+    "JU 24": {
+        "Name": "Pidgeot",
+        "Quantity": 1
+    },
+    "JU 25": {
+        "Name": "Pinsir",
+        "Quantity": 3
+    },
+    "JU 26": {
+        "Name": "Scyther",
+        "Quantity": 4
+    },
+    "JU 27": {
+        "Name": "Snorlax",
+        "Quantity": 1
+    },
+    "JU 28": {
+        "Name": "Vaporeon",
+        "Quantity": 0
+    },
+    "JU 29": {
+        "Name": "Venomoth",
+        "Quantity": 3
+    },
+    "JU 30": {
+        "Name": "Victreebel",
+        "Quantity": 1
+    },
+    "JU 31": {
+        "Name": "Vileplume",
+        "Quantity": 4
+    },
+    "JU 32": {
+        "Name": "Wigglytuff",
+        "Quantity": 4
+    },
+    "JU 33": {
+        "Name": "Butterfree",
+        "Quantity": 4
+    },
+    "JU 34": {
+        "Name": "Dodrio",
+        "Quantity": 4
+    },
+    "JU 35": {
+        "Name": "Exeggutor",
+        "Quantity": 4
+    },
+    "JU 36": {
+        "Name": "Fearow",
+        "Quantity": 4
+    },
+    "JU 37": {
+        "Name": "Gloom",
+        "Quantity": 4
+    },
+    "JU 38": {
+        "Name": "Lickitung",
+        "Quantity": 4
+    },
+    "JU 39": {
+        "Name": "Marowak",
+        "Quantity": 4
+    },
+    "JU 40": {
+        "Name": "Nidorina",
+        "Quantity": 4
+    },
+    "JU 41": {
+        "Name": "Parasect",
+        "Quantity": 4
+    },
+    "JU 42": {
+        "Name": "Persian",
+        "Quantity": 2
+    },
+    "JU 43": {
+        "Name": "Primeape",
+        "Quantity": 4
+    },
+    "JU 44": {
+        "Name": "Rapidash",
+        "Quantity": 2
+    },
+    "JU 45": {
+        "Name": "Rhydon",
+        "Quantity": 4
+    },
+    "JU 46": {
+        "Name": "Seaking",
+        "Quantity": 4
+    },
+    "JU 47": {
+        "Name": "Tauros",
+        "Quantity": 4
+    },
+    "JU 48": {
+        "Name": "Weepinbell",
+        "Quantity": 4
+    },
+    "JU 49": {
+        "Name": "Bellsprout",
+        "Quantity": 4
+    },
+    "JU 50": {
+        "Name": "Cubone",
+        "Quantity": 4
+    },
+    "JU 51": {
+        "Name": "Eevee",
+        "Quantity": 4
+    },
+    "JU 52": {
+        "Name": "Exeggcute",
+        "Quantity": 4
+    },
+    "JU 53": {
+        "Name": "Goldeen",
+        "Quantity": 4
+    },
+    "JU 54": {
+        "Name": "Jigglypuff",
+        "Quantity": 4
+    },
+    "JU 55": {
+        "Name": "Mankey",
+        "Quantity": 4
+    },
+    "JU 56": {
+        "Name": "Meowth",
+        "Quantity": 4
+    },
+    "JU 57": {
+        "Name": "Nidoran F",
+        "Quantity": 4
+    },
+    "JU 58": {
+        "Name": "Oddish",
+        "Quantity": 4
+    },
+    "JU 59": {
+        "Name": "Paras",
+        "Quantity": 4
+    },
+    "JU 60": {
+        "Name": "Pikachu",
+        "Quantity": 3
+    },
+    "JU 61": {
+        "Name": "Rhyhorn",
+        "Quantity": 4
+    },
+    "JU 62": {
+        "Name": "Spearow",
+        "Quantity": 4
+    },
+    "JU 63": {
+        "Name": "Venonat",
+        "Quantity": 4
+    },
+    "JU 64": {
+        "Name": "Poke Ball",
+        "Quantity": 8
+    },
+    "FO 16": {
+        "Name": "Aerodactyl",
+        "Quantity": 3
+    },
+    "FO 17": {
+        "Name": "Articuno",
+        "Quantity": 4
+    },
+    "FO 18": {
+        "Name": "Ditto",
+        "Quantity": 2
+    },
+    "FO 19": {
+        "Name": "Dragonite",
+        "Quantity": 0
+    },
+    "FO 20": {
+        "Name": "Gengar",
+        "Quantity": 0
+    },
+    "FO 21": {
+        "Name": "Haunter",
+        "Quantity": 0
+    },
+    "FO 22": {
+        "Name": "Hitmonlee",
+        "Quantity": 3
+    },
+    "FO 23": {
+        "Name": "Hypno",
+        "Quantity": 0
+    },
+    "FO 24": {
+        "Name": "Kabutops",
+        "Quantity": 1
+    },
+    "FO 25": {
+        "Name": "Lapras",
+        "Quantity": 1
+    },
+    "FO 26": {
+        "Name": "Magneton",
+        "Quantity": 2
+    },
+    "FO 27": {
+        "Name": "Moltres",
+        "Quantity": 1
+    },
+    "FO 28": {
+        "Name": "Muk",
+        "Quantity": 1
+    },
+    "FO 29": {
+        "Name": "Raichu",
+        "Quantity": 0
+    },
+    "FO 30": {
+        "Name": "Zapdos",
+        "Quantity": 2
+    },
+    "FO 31": {
+        "Name": "Arbok",
+        "Quantity": 2
+    },
+    "FO 32": {
+        "Name": "Cloyster",
+        "Quantity": 4
+    },
+    "FO 33": {
+        "Name": "Gastly",
+        "Quantity": 3
+    },
+    "FO 34": {
+        "Name": "Golbat",
+        "Quantity": 4
+    },
+    "FO 35": {
+        "Name": "Golduck",
+        "Quantity": 4
+    },
+    "FO 36": {
+        "Name": "Golem",
+        "Quantity": 4
+    },
+    "FO 37": {
+        "Name": "Graveler",
+        "Quantity": 4
+    },
+    "FO 38": {
+        "Name": "Kingler",
+        "Quantity": 4
+    },
+    "FO 39": {
+        "Name": "Magmar",
+        "Quantity": 4
+    },
+    "FO 40": {
+        "Name": "Omastar",
+        "Quantity": 4
+    },
+    "FO 41": {
+        "Name": "Sandslash",
+        "Quantity": 4
+    },
+    "FO 42": {
+        "Name": "Seadra",
+        "Quantity": 4
+    },
+    "FO 43": {
+        "Name": "Slowbro",
+        "Quantity": 4
+    },
+    "FO 44": {
+        "Name": "Tentacruel",
+        "Quantity": 4
+    },
+    "FO 45": {
+        "Name": "Weezing",
+        "Quantity": 4
+    },
+    "FO 46": {
+        "Name": "Ekans",
+        "Quantity": 4
+    },
+    "FO 47": {
+        "Name": "Geodude",
+        "Quantity": 4
+    },
+    "FO 48": {
+        "Name": "Grimer",
+        "Quantity": 4
+    },
+    "FO 49": {
+        "Name": "Horsea",
+        "Quantity": 4
+    },
+    "FO 50": {
+        "Name": "Kabuto",
+        "Quantity": 4
+    },
+    "FO 51": {
+        "Name": "Krabby",
+        "Quantity": 4
+    },
+    "FO 52": {
+        "Name": "Omanyte",
+        "Quantity": 4
+    },
+    "FO 53": {
+        "Name": "Psyduck",
+        "Quantity": 4
+    },
+    "FO 54": {
+        "Name": "Shellder",
+        "Quantity": 4
+    },
+    "FO 55": {
+        "Name": "Slowpoke",
+        "Quantity": 4
+    },
+    "FO 56": {
+        "Name": "Tentacool",
+        "Quantity": 4
+    },
+    "FO 57": {
+        "Name": "Zubat",
+        "Quantity": 4
+    },
+    "FO 58": {
+        "Name": "Mr. Fuji",
+        "Quantity": 8
+    },
+    "FO 59": {
+        "Name": "Energy Search",
+        "Quantity": 8
+    },
+    "FO 60": {
+        "Name": "Gambler",
+        "Quantity": 8
+    },
+    "FO 61": {
+        "Name": "Recycle",
+        "Quantity": 8
+    },
+    "FO 62": {
+        "Name": "Mysterious Fossil",
+        "Quantity": 8
+    },
+    "PR 1": {
+        "Name": "Pikachu",
+        "Quantity": 0
+    },
+    "PR 2": {
+        "Name": "Electabuzz",
+        "Quantity": 1
+    },
+    "PR 3": {
+        "Name": "Mewtwo",
+        "Quantity": 1
+    },
+    "PR 4": {
+        "Name": "Pikachu",
+        "Quantity": 0
+    },
+    "PR 5": {
+        "Name": "Dragonite",
+        "Quantity": 0
+    },
+    "PR 6": {
+        "Name": "Arcanine",
+        "Quantity": 0
+    },
+    "PR 7": {
+        "Name": "Jigglypuff",
+        "Quantity": 0
+    },
+    "PR 8": {
+        "Name": "Mew",
+        "Quantity": 1
+    }
+}
